@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings, my visitor! 👋
 
 <!--
 **pashokman/pashokman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About myself
+I have been in testing for more than 4 last years, working on software quality of web desktop/mobile, API, and mobile applications.
+In November 2023 I finished a course - Automation Software Testing (with honor) by GlobalLogic vs Prometheus and after that, I continued learning automation Selenium (Python) by myself.
+I am looking for a great opportunity for my skills and desire to make the software user experience better.
+
+
