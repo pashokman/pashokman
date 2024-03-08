@@ -44,4 +44,7 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 <br/>
 <h3>To find out more about my projects, check out their README</h3>
 
-<p>Become QA Auto - <a href="https://github.com/pashokman/Become-QA-Auto">link</a> is my degree project from a course - Automation Software Testing by GlobalLogic vs Prometheus</p>
+- <a href="https://github.com/pashokman/Become-QA-Auto">Become QA Auto</a> is my degree project from a course - Automation Software Testing by GlobalLogic vs Prometheus
+- <a href="https://github.com/pashokman/SeleniumHybridFramework">Selenium Hybrid Framework</a> is a project based on a YouTube QAFox course (helped me better understand how to build Test Driven Framework from scratch) - <a href="https://www.youtube.com/watch?v=4fLblSQPBKY&list=PLsjUcU8CQXGEe8D7ZVJnANklJEHeqjBul&index=290">Selenium Python Beginners to Advanced</a>
+- <a href="https://github.com/pashokman/BDDHybridPageObjectFramework">BDD Hybrid Page Object Framework</a> is a project based on a YouTube QAFox course (gives me understanding how to build Behavior Driven Framework from scratch) - <a href="https://www.youtube.com/watch?v=H3gsmURQQZg&list=PLsjUcU8CQXGEe8D7ZVJnANklJEHeqjBul&index=303">Selenium Python Beginners to Advanced</a>
+- <a href="https://github.com/pashokman/sql_study_project">SQL Study Project</a> is a project where I refresh my knowledge of SQL and learn how to work with databases in Python - SQLite3</a>
