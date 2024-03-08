@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Greetings, my visitor! 👋, I'm Pavlo Lekhitskyi</h1>
 <h3 align="center">An attentive, patient, and energetic QA Engineer</h3>
 
-<h4>About myself</h4>
+<h3>About myself</h3>
 I have been in testing for more than 4 last years, working on software quality of web desktop/mobile, API, and mobile applications. <br>
 In November 2023 I finished a course - Automation Software Testing (with honor) by GlobalLogic vs Prometheus and continued learning automation Selenium (Python) by myself.<br>
 I am looking for a great opportunity for my skills and desire to make the software user experience better.<br>
@@ -28,7 +28,7 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/pavlolekhitskyi](https://www.linkedin.com/in/pavlolekhitskyi/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username test" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/pavlolekhitskyi](https://www.linkedin.com/in/pavlolekhitskyi/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavlolekhitskyi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
