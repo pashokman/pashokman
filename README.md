@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Greetings, my visitor! 👋 I'm Pavlo Lekhitskyi</h1>
+<h1 align="center">Greetings, visitor! 👋 I'm Pavlo Lekhitskyi</h1>
 <h3 align="center">An attentive, patient, and energetic QA Engineer</h3>
 
 <h3>About myself</h3>
