@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Greetings, my visitor! 👋, I'm Pavlo Lekhitskyi</h1>
-<h3 align="center">An attentive, patient, and energetic QA Engineer.</h3>
+<h3 align="center">An attentive, patient, and energetic QA Engineer</h3>
 
 <h4>About myself</h4>
 I have been in testing for more than 4 last years, working on software quality of web desktop/mobile, API, and mobile applications. <br>
@@ -36,6 +36,7 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pashokman&show_icons=true&locale=en&layout=compact" alt="pashokman" /></p>
 
+<br/>
 <br/>
 <br/>
 <br/>
