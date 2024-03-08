@@ -43,3 +43,5 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 <br/>
 <br/>
 <h3>To find out more about my projects, check out their README</h3>
+
+<p>Become QA Auto - <a href="https://github.com/pashokman/Become-QA-Auto">link</a> is my degree project from a course - Automation Software Testing by GlobalLogic vs Prometheus</p>
