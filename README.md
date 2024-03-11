@@ -45,4 +45,4 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 - <a href="https://github.com/pashokman/BDDHybridPageObjectFramework">BDD Hybrid Page Object Framework</a> is a project based on a YouTube QAFox course (gives me an understanding of how to build Behavior Driven Framework from scratch) - <a href="https://www.youtube.com/watch?v=H3gsmURQQZg&list=PLsjUcU8CQXGEe8D7ZVJnANklJEHeqjBul&index=303">Selenium Python Beginners to Advanced</a>
 <a href="https://ibb.co/r2jNnjH"><img src="https://i.ibb.co/yF97L9q/jenkins-github-results3.png" alt="jenkins-github-results3" border="0" width="960" height="460"></a>
 
-- <a href="https://github.com/pashokman/sql_study_project">SQL Study Project</a> is a project where I refresh my knowledge of SQL and learn how to work with databases in Python - SQLite3</a>
+- <a href="https://github.com/pashokman/sql_study_project">SQL Study Project</a> is a project where I refresh my knowledge of SQL and practice to work with databases in Python - SQLite3</a>
