@@ -38,16 +38,16 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 <h3>To find out more about my projects, check out their README</h3>
 
 - <a href="https://github.com/pashokman/Become-QA-Auto">Become QA Auto</a> is my degree project from a course - Automation Software Testing by GlobalLogic vs Prometheus
-<a href="https://ibb.co/4Vz3PRr"><img src="https://i.ibb.co/qrKVkYQ/jenkins-github-results2.png" alt="jenkins-github-results2" border="0" width="541" height="260"></a>
+<p><a href="https://ibb.co/4Vz3PRr"><img src="https://i.ibb.co/qrKVkYQ/jenkins-github-results2.png" alt="jenkins-github-results2" border="0" width="541" height="260"></a></p>
 
 - <a href="https://github.com/pashokman/SeleniumHybridFramework">Selenium Hybrid Framework</a> is a project based on a YouTube QAFox course (helped me better understand how to build Traditional Framework from scratch) - <a href="https://www.youtube.com/watch?v=4fLblSQPBKY&list=PLsjUcU8CQXGEe8D7ZVJnANklJEHeqjBul&index=290">Selenium Python Beginners to Advanced</a>
-<a href="https://ibb.co/bFC3m1r"><img src="https://i.ibb.co/r3zt0kZ/jenkins-github-results.png" alt="jenkins-github-results" border="0" width="541" height="260"></a>
+<p><a href="https://ibb.co/bFC3m1r"><img src="https://i.ibb.co/r3zt0kZ/jenkins-github-results.png" alt="jenkins-github-results" border="0" width="541" height="260"></a></p>
 
 - <a href="https://github.com/pashokman/BDDHybridPageObjectFramework">BDD Hybrid Page Object Framework</a> is a project based on a YouTube QAFox course (gives me an understanding of how to build Behavior Driven Framework from scratch) - <a href="https://www.youtube.com/watch?v=H3gsmURQQZg&list=PLsjUcU8CQXGEe8D7ZVJnANklJEHeqjBul&index=303">Selenium Python Beginners to Advanced</a>
-<a href="https://ibb.co/r2jNnjH"><img src="https://i.ibb.co/yF97L9q/jenkins-github-results3.png" alt="jenkins-github-results3" border="0" width="541" height="260"></a>
+<p><a href="https://ibb.co/r2jNnjH"><img src="https://i.ibb.co/yF97L9q/jenkins-github-results3.png" alt="jenkins-github-results3" border="0" width="541" height="260"></a></p>
 
 - <a href="https://github.com/pashokman/sql_study_project">SQL Traning Project</a> is a project where I refreshed my knowledge of SQL and practiced working with databases in Python - SQLite3</a>
-<a href="https://ibb.co/GR8gDd5"><img src="https://i.ibb.co/RcsLKgD/jenkins-github-results4.png" alt="jenkins-github-results4" border="0" width="541" height="260"></a>
+<p><a href="https://ibb.co/GR8gDd5"><img src="https://i.ibb.co/RcsLKgD/jenkins-github-results4.png" alt="jenkins-github-results4" border="0" width="541" height="260"></a></p>
 
 - <a href="https://github.com/pashokman/base_multibrowser_UI_test_framework">Base for multi-browser UI framework</a> is a project where I created a template of multi-browser UI test framework with screenshot on failure and logging funtionality</a>
-<a href="https://ibb.co/86qz9sn"><img src="https://i.ibb.co/ChgJQ8p/jenkins-github-results5.png" alt="jenkins-github-results5" border="0" width="541" height="260"></a>
+<p><a href="https://ibb.co/86qz9sn"><img src="https://i.ibb.co/ChgJQ8p/jenkins-github-results5.png" alt="jenkins-github-results5" border="0" width="541" height="260"></a></p>
