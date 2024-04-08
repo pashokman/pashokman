@@ -24,7 +24,7 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 
 - 🌱 I keep learning new things about **Selenium, Python, PyTest, requests, SQLite3, Allure, JavaScript, SQL, BDD, DDT, and other useful software and concepts for QA**
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1LciUq8IDYBpBkenGOfP7E8fPpREWjMkH/view?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1lKBqI26L-bVjGgsyV610kf6PCMAwkmgM/view?usp=sharing)
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pashokman&show_icons=true&locale=en&layout=compact" alt="pashokman" /></p>
 
 
