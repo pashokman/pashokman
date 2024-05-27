@@ -51,3 +51,6 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 
 - <a href="https://github.com/pashokman/base_multibrowser_UI_test_framework">Base for multi-browser UI framework</a> is a project where I created a template of multi-browser UI test framework with screenshot on failure and logging functionality</a>
 <p><a href="https://ibb.co/86qz9sn"><img src="https://i.ibb.co/ChgJQ8p/jenkins-github-results5.png" alt="jenkins-github-results5" border="0" width="541" height="260"></a></p>
+
+- <a href="https://github.com/pashokman/restful-booker_api_framework">Restful-booker API testing framework</a> is an example project of a framework for API testing, using Python-Requests-Xdist-Jenkins-Allure</a>
+<p><a href="https://ibb.co/mSZ4SmY"><img src="https://i.ibb.co/mSZ4SmY/jenkins-github-results6.png" alt="jenkins-github-results6" border="0" width="541" height="260"></a></p>
