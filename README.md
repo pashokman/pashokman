@@ -37,6 +37,12 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 
 <h3>To find out more about my projects, check out their README</h3>
 
+- <a href="https://github.com/pashokman/base_multibrowser_UI_test_framework">Base for multi-browser UI framework</a> is a project where I created a template of multi-browser UI test framework with screenshot on failure and logging functionality</a>
+<p><a href="https://ibb.co/86qz9sn"><img src="https://i.ibb.co/ChgJQ8p/jenkins-github-results5.png" alt="jenkins-github-results5" border="0" width="541" height="260"></a></p>
+
+- <a href="https://github.com/pashokman/restful-booker_api_framework">Restful-booker API testing framework</a> is an example project of a framework for API testing, using Python-Requests-Xdist-Jenkins-Allure</a>
+<p><a href="https://ibb.co/mSZ4SmY"><img src="https://i.ibb.co/mSZ4SmY/jenkins-github-results6.png" alt="jenkins-github-results6" border="0" width="541" height="260"></a></p>
+
 - <a href="https://github.com/pashokman/Become-QA-Auto">Become QA Auto</a> is my degree project from a course - Automation Software Testing by GlobalLogic vs Prometheus
 <p><a href="https://ibb.co/4Vz3PRr"><img src="https://i.ibb.co/qrKVkYQ/jenkins-github-results2.png" alt="jenkins-github-results2" border="0" width="541" height="260"></a></p>
 
@@ -48,9 +54,3 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 
 - <a href="https://github.com/pashokman/sql_study_project">SQL Traning Project</a> is a project where I refreshed my knowledge of SQL and practiced working with databases in Python - SQLite3</a>
 <p><a href="https://ibb.co/GR8gDd5"><img src="https://i.ibb.co/RcsLKgD/jenkins-github-results4.png" alt="jenkins-github-results4" border="0" width="541" height="260"></a></p>
-
-- <a href="https://github.com/pashokman/base_multibrowser_UI_test_framework">Base for multi-browser UI framework</a> is a project where I created a template of multi-browser UI test framework with screenshot on failure and logging functionality</a>
-<p><a href="https://ibb.co/86qz9sn"><img src="https://i.ibb.co/ChgJQ8p/jenkins-github-results5.png" alt="jenkins-github-results5" border="0" width="541" height="260"></a></p>
-
-- <a href="https://github.com/pashokman/restful-booker_api_framework">Restful-booker API testing framework</a> is an example project of a framework for API testing, using Python-Requests-Xdist-Jenkins-Allure</a>
-<p><a href="https://ibb.co/mSZ4SmY"><img src="https://i.ibb.co/mSZ4SmY/jenkins-github-results6.png" alt="jenkins-github-results6" border="0" width="541" height="260"></a></p>
