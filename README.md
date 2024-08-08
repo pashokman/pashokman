@@ -22,7 +22,7 @@ I have been in testing for more than 4 last years, working on software quality o
 In November 2023 I finished a course - Automation Software Testing (with honor) by GlobalLogic vs Prometheus and continued learning automation Selenium (Python) by myself.<br>
 I am looking for a great opportunity for my skills and desire to make the software user experience better.<br>
 
-- 🌱 I keep learning new things about **Selenium, Python, PyTest, requests, SQLite3, Allure, JavaScript, SQL, BDD, DDT, and other useful software and concepts for QA**
+- 🌱 I keep learning new things about **Selenium, Python, PyTest, requests, SQLite3, Allure, Locust, JavaScript, SQL, BDD, DDT, and other useful software and concepts for QA**
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1lKBqI26L-bVjGgsyV610kf6PCMAwkmgM/view?usp=sharing)
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pashokman&show_icons=true&locale=en&layout=compact" alt="pashokman" /></p>
