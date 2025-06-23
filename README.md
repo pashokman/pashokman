@@ -37,11 +37,19 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 
 <h3>To find out more about my projects, check out their README</h3>
 
-- <a href="https://github.com/pashokman/api_for_testing">Refreshed API testing skills using Pytest + Requests; implemented parallel execution, centralized logging, Allure & HTML reports, GitHub Actions.</a>
+- <a href="https://github.com/pashokman/api_for_testing">API Testing Framework:</a> Refreshed API testing skills using Pytest + Requests; implemented parallel execution, centralized logging, Allure & HTML reports, GitHub Actions.
 
-- <a href="https://github.com/pashokman/playwright_pytest_xdist_logs_github_actions">Refreshed UI automation with Pytest + Playwright; added rerun logic, screenshot/video/trace on failure, parallel execution, per-class loggers, Allure & HTML reports, GitHub Actions (secrets, artifacts).</a>
+- <a href="https://github.com/pashokman/playwright_pytest_xdist_logs_github_actions">Playwright UI Framework:</a> Refreshed UI automation with Pytest + Playwright; added rerun logic, screenshot/video/trace on failure, parallel execution, per-class loggers, Allure & HTML reports, GitHub Actions (secrets, artifacts).
 
-- <a href="https://github.com/pashokman/all_actions_project">UI actions framework using Pytest + Selenium, focused on interaction with various web elements.</a>
+- <a href="https://github.com/pashokman/all_actions_project">All Actions Project:</a> UI actions framework using Pytest + Selenium, focused on interaction with various web elements.
+
+- <a href="https://github.com/pashokman/playwright_practice">Playwright Practice:</a> UI actions framework using Pytest + Playwright, mirroring the approach from the Selenium-based version.
+
+- <a href="https://github.com/pashokman/restful-booker_api_framework">Restful Booker API:</a> API testing framework using Pytest + Requests + Xdist + Jenkins + Allure.
+
+- <a href="https://github.com/pashokman/base_multibrowser_UI_test_framework">Multi-browser UI Template:</a> Cross-browser UI testing framework with Pytest + Selenium, includes failure screenshots and logging.
+
+- <a href="https://github.com/pashokman/BDDHybridPageObjectFramework">BDD Hybrid Page Object Framework:</a> Web UI BDD framework built from scratch based on QAFox course; deepened understanding of BDD with Page Object Model.
 
 <!--- <a href="https://github.com/pashokman/base_multibrowser_UI_test_framework">Base for multi-browser UI framework</a> is a project where I created a template of multi-browser UI test framework with screenshot on failure and logging functionality</a>
 <p><a href="https://ibb.co/86qz9sn"><img src="https://i.ibb.co/ChgJQ8p/jenkins-github-results5.png" alt="jenkins-github-results5" border="0" width="541" height="260"></a></p>
