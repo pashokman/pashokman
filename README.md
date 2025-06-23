@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h3 align="center">An attentive, patient, and energetic QA Engineer</h3>
 
 <h3>About myself</h3>
-I have been in testing for more than 4 last years, working on software quality of web desktop/mobile, API, and mobile applications. <br>
-In November 2023 I finished a course - Automation Software Testing (with honor) by GlobalLogic vs Prometheus and continued learning automation Selenium (Python) by myself.<br>
+I have been in testing for more than 5 last years, working on software quality of Web Desktop/Mobile, API, and Mobile applications. <br>
+In November 2023 I finished a course - Automation Software Testing (with honor) by GlobalLogic vs Prometheus and continued learning automation (Python + Pytest + Playwright/Request) by myself.<br>
 I am looking for a great opportunity for my skills and desire to make the software user experience better.<br>
 
-- 🌱 I keep learning new things about **Selenium, Python, PyTest, requests, SQLite3, Allure, Locust, JavaScript, SQL, BDD, DDT, and other useful software and concepts for QA**
+- 🌱 I keep learning new things about **Playwright, Python, PyTest, Requests, Locust, Allure, SQLite3, JavaScript, SQL, BDD, DDT, and other useful software and concepts for QA**
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1W4LvuNuBLikbE9KIC1fa31W0if2mqOE0/view?usp=sharing)
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pashokman&show_icons=true&locale=en&layout=compact" alt="pashokman" /></p>
@@ -37,7 +37,13 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 
 <h3>To find out more about my projects, check out their README</h3>
 
-- <a href="https://github.com/pashokman/base_multibrowser_UI_test_framework">Base for multi-browser UI framework</a> is a project where I created a template of multi-browser UI test framework with screenshot on failure and logging functionality</a>
+- <a href="https://github.com/pashokman/api_for_testing">Refreshed API testing skills using Pytest + Requests; implemented parallel execution, centralized logging, Allure & HTML reports, GitHub Actions.</a>
+
+- <a href="https://github.com/pashokman/playwright_pytest_xdist_logs_github_actions">Refreshed UI automation with Pytest + Playwright; added rerun logic, screenshot/video/trace on failure, parallel execution, per-class loggers, Allure & HTML reports, GitHub Actions (secrets, artifacts).</a>
+
+- <a href="https://github.com/pashokman/all_actions_project">UI actions framework using Pytest + Selenium, focused on interaction with various web elements.</a>
+
+<!--- <a href="https://github.com/pashokman/base_multibrowser_UI_test_framework">Base for multi-browser UI framework</a> is a project where I created a template of multi-browser UI test framework with screenshot on failure and logging functionality</a>
 <p><a href="https://ibb.co/86qz9sn"><img src="https://i.ibb.co/ChgJQ8p/jenkins-github-results5.png" alt="jenkins-github-results5" border="0" width="541" height="260"></a></p>
 
 - <a href="https://github.com/pashokman/restful-booker_api_framework">Restful-booker API testing framework</a> is an example project of a framework for API testing, using Python-Requests-Xdist-Jenkins-Allure</a>
@@ -53,4 +59,4 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 <p><a href="https://ibb.co/r2jNnjH"><img src="https://i.ibb.co/yF97L9q/jenkins-github-results3.png" alt="jenkins-github-results3" border="0" width="541" height="260"></a></p>
 
 - <a href="https://github.com/pashokman/sql_study_project">SQL Traning Project</a> is a project where I refreshed my knowledge of SQL and practiced working with databases in Python - SQLite3</a>
-<p><a href="https://ibb.co/GR8gDd5"><img src="https://i.ibb.co/RcsLKgD/jenkins-github-results4.png" alt="jenkins-github-results4" border="0" width="541" height="260"></a></p>
+<p><a href="https://ibb.co/GR8gDd5"><img src="https://i.ibb.co/RcsLKgD/jenkins-github-results4.png" alt="jenkins-github-results4" border="0" width="541" height="260"></a></p> -->
