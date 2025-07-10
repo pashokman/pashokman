@@ -37,7 +37,7 @@ I am looking for a great opportunity for my skills and desire to make the softwa
 
 <h3>To find out more about my projects, check out their README</h3>
 
-- <a href="https://github.com/pashokman/api_for_testing">API Testing Framework:</a> Refreshed API testing skills using Pytest + Requests; implemented parallel execution, centralized logging, Allure & HTML reports, GitHub Actions.
+- <a href="https://github.com/pashokman/api_for_testing">API Testing Framework:</a> Refreshed API testing skills using Pytest + Requests; implemented parallel execution, centralized logging, Allure & HTML reports, GitHub Actions and much more.
 
 - <a href="https://github.com/pashokman/playwright_pytest_xdist_logs_github_actions">Playwright UI Framework:</a> Refreshed UI automation with Pytest + Playwright; added rerun logic, screenshot/video/trace on failure, parallel execution, per-class loggers, Allure & HTML reports, GitHub Actions (secrets, artifacts).
 
