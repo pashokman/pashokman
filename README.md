@@ -43,8 +43,8 @@ QA Engineer with **6+ years of experience** in testing Web, Mobile, and API syst
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pashokman&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pashokman&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pashokman&show_icons=true&theme=dark&locale=en" alt="Pavlo's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashokman&layout=compact&theme=dark&hide=html,css" alt="Top Languages" height="165" />
 </p>
 
 ---
