@@ -26,7 +26,7 @@ QA Engineer with **6+ years of experience** in testing Web, Mobile, and API syst
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,githubactions,git,linux,jenkins,playwright,postman,sql" />
+  <img src="https://skillicons.dev/icons?i=python,js,githubactions,git,linux,jenkins,postman" />
 </p>
 
 <p align="center">
